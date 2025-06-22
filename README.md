@@ -63,3 +63,7 @@
 - [Spring Boot 官方網站](https://spring.io/projects/spring-boot)
 - [start.spring.io](https://start.spring.io/)
 - [Spring Boot Actuator](https://docs.spring.io/spring-boot/docs/current/reference/html/actuator.html)
+
+## 授權說明
+
+本專案採用 MIT 授權條款，詳見 LICENSE 檔案。 
